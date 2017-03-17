@@ -1,0 +1,160 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="streamofconciousness.com" resolutions="1x" timestamp="1481818119449">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="______.css" crc="165531447" ref="======"/>
+    <file name="love-stinks.css" crc="4000722942" ref="love-stinks"/>
+    <file name="bby.css" crc="533461523" ref="bby"/>
+    <file name="get-rekt-banksy.css" crc="3778970815" ref="get-rekt-banksy"/>
+    <file name="ibiricidi.css" crc="3836392832" ref="ibiricidi"/>
+    <file name="blueberry.css" crc="187869255" ref="blueberry"/>
+    <file name="-------.css" crc="3785245068" ref="-------"/>
+    <file name="ice-cream.css" crc="257039827" ref="ice-cream"/>
+    <file name="index.css" crc="4069989313" ref="index"/>
+    <file name="pigeon.css" crc="3765648234" ref="pigeon"/>
+    <file name="banana.css" crc="189340376" ref="banana"/>
+    <file name="a-is-for.css" crc="141209193" ref="a-is-for"/>
+    <file name="fizz.css" crc="216393319" ref="fizz"/>
+    <file name="fruit-kids3.css" crc="4124426863" ref="fruit-kids3"/>
+    <file name="see-what-i-see.css" crc="41021340" ref="see-what-i-see"/>
+    <file name="perhaps.css" crc="66442242" ref="perhaps"/>
+    <file name="grow.css" crc="3974669494" ref="grow"/>
+    <file name="in-an-attack_-deep-breathe.css" crc="4042361363" ref="in-an-attack,-deep-breathe"/>
+    <file name="rain.css" crc="185955893" ref="rain"/>
+    <file name="web.css" crc="452967384" ref="web"/>
+    <file name="rb.css" crc="3891821203" ref="rb"/>
+    <file name="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy.css" crc="356229860" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="fruit-kids2.css" crc="209964627" ref="fruit-kids2"/>
+    <file name="masses-cubes.css" crc="3809498685" ref="masses-cubes"/>
+    <file name="shredder.css" crc="4240349967" ref="shredder"/>
+    <file name="fruit-kids.css" crc="181256653" ref="fruit-kids"/>
+    <file name="that-guy-who-smuggled-a-sandwich-into-space.css" crc="3948252871" ref="that-guy-who-smuggled-a-sandwich-into-space"/>
+    <file name="--__-_--ooooooo.css" crc="292568155" ref="--.,-.--ooooooo"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="in-an-attack,-deep-breathe:a-is-for:-------:ibiricidi:get-rekt-banksy:love-stinks:--.,-.--ooooooo:that-guy-who-smuggled-a-sandwich-into-space:shredder:rb:rain:see-what-i-see:fizz:pigeon:ice-cream:blueberry:banana:bby:======:grow:fruit-kids:masses-cubes:web:fruit-kids2:fruit-kids3:perhaps:index:nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="museutils.js" crc="4155826306" ref="in-an-attack,-deep-breathe:a-is-for:-------:ibiricidi:get-rekt-banksy:love-stinks:--.,-.--ooooooo:that-guy-who-smuggled-a-sandwich-into-space:shredder:rb:rain:see-what-i-see:fizz:pigeon:ice-cream:blueberry:banana:bby:======:grow:fruit-kids:masses-cubes:web:fruit-kids2:fruit-kids3:perhaps:index:nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="in-an-attack,-deep-breathe:a-is-for:-------:ibiricidi:get-rekt-banksy:love-stinks:--.,-.--ooooooo:that-guy-who-smuggled-a-sandwich-into-space:shredder:rb:rain:see-what-i-see:fizz:pigeon:ice-cream:blueberry:banana:bby:======:grow:fruit-kids:masses-cubes:web:fruit-kids2:fruit-kids3:perhaps:index:nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="museconfig.js" crc="483509463" ref="in-an-attack,-deep-breathe:a-is-for:-------:ibiricidi:get-rekt-banksy:love-stinks:--.,-.--ooooooo:that-guy-who-smuggled-a-sandwich-into-space:shredder:rb:rain:see-what-i-see:fizz:pigeon:ice-cream:blueberry:banana:bby:======:grow:fruit-kids:masses-cubes:web:fruit-kids2:fruit-kids3:perhaps:index:nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="jquery.watch.js" crc="117772946" ref="in-an-attack,-deep-breathe:a-is-for:-------:ibiricidi:get-rekt-banksy:love-stinks:--.,-.--ooooooo:that-guy-who-smuggled-a-sandwich-into-space:shredder:rb:rain:see-what-i-see:fizz:pigeon:ice-cream:blueberry:banana:bby:======:grow:fruit-kids:masses-cubes:web:fruit-kids2:fruit-kids3:perhaps:index:nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="require.js" crc="228336483" ref="in-an-attack,-deep-breathe:a-is-for:-------:ibiricidi:get-rekt-banksy:love-stinks:--.,-.--ooooooo:that-guy-who-smuggled-a-sandwich-into-space:shredder:rb:rain:see-what-i-see:fizz:pigeon:ice-cream:blueberry:banana:bby:======:grow:fruit-kids:masses-cubes:web:fruit-kids2:fruit-kids3:perhaps:index:nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="pie.js" crc="3827607177" ref="love-stinks:rain:======:web"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="see-what-i-see"/>
+    <file name="html5shiv.js" crc="4241844378" ref="see-what-i-see:fizz:pigeon:ice-cream:blueberry:banana:bby:======:grow:fruit-kids:masses-cubes:web:fruit-kids2:fruit-kids3:perhaps:index:nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="smoke_png965.png" crc="3906438855" seo="true" ref="in-an-attack,-deep-breathe"/>
+    <file name="3-crumpled-paper-bag-texture-crop-u333.jpg" crc="3874852833" ref="in-an-attack,-deep-breathe"/>
+    <file name="3-crumpled-paper-bag-texture-crop-u326.jpg" crc="4045672234" ref="in-an-attack,-deep-breathe"/>
+    <file name="3-crumpled-paper-bag-texture-u313.png" crc="4171183023" ref="in-an-attack,-deep-breathe"/>
+    <file name="maxresdefault.png" crc="3834185069" seo="true" ref="in-an-attack,-deep-breathe"/>
+    <file name="nhs-prescription-image.png" crc="4214290078" ref="in-an-attack,-deep-breathe"/>
+    <file name="20155573460_2b5f5f1fa9_o-crop-u659.jpg" crc="4167037050" ref="a-is-for"/>
+    <file name="bigstock-deflated-balloon-isolated-on-19430621.png" crc="4088911074" seo="true" ref="a-is-for"/>
+    <file name="asthmatexy.png" crc="446233847" seo="true" ref="a-is-for"/>
+    <file name="stick.gif" crc="3910542253" ref="-------"/>
+    <file name="bar2.gif" crc="4106036311" seo="true" ref="ibiricidi"/>
+    <file name="bar1.gif" crc="477921474" seo="true" ref="ibiricidi"/>
+    <file name="bar3.gif" crc="4043879961" seo="true" ref="ibiricidi"/>
+    <file name="wonky 1.jpg" crc="4202935700" ref="ibiricidi"/>
+    <file name="35032517-torn-poster-wall-texture-pattern-as-urban-background-stock-photo.png" crc="116581562" ref="get-rekt-banksy"/>
+    <file name="sadeyes_128b0.png" crc="4067212876" seo="true" ref="get-rekt-banksy"/>
+    <file name="exit.png" crc="4154587240" seo="true" ref="get-rekt-banksy"/>
+    <file name="fly.png" crc="293527383" seo="true" ref="love-stinks"/>
+    <file name="fly.gif" crc="380362692" seo="true" ref="love-stinks"/>
+    <file name="hike.gif" crc="261093817" seo="true" ref="--.,-.--ooooooo"/>
+    <file name="poolwater.gif" crc="4117590171" seo="true" ref="--.,-.--ooooooo"/>
+    <file name="news-032315a-lg-crop-u1786.jpg" crc="4005226623" ref="that-guy-who-smuggled-a-sandwich-into-space"/>
+    <file name="gemini_3_-_prime_crew_(young_and_grissom)-crop-u1776.jpg" crc="403280661" ref="that-guy-who-smuggled-a-sandwich-into-space"/>
+    <file name="shredder.gif" crc="4166230979" seo="true" ref="shredder"/>
+    <file name="lighter.gif" crc="408000488" seo="true" ref="rb"/>
+    <file name="newrain.gif" crc="200428936" ref="rain:grow"/>
+    <file name="handnew.jpg" crc="4201305687" seo="true" ref="see-what-i-see"/>
+    <file name="u2044-grad.png" crc="3889021338" ref="see-what-i-see"/>
+    <file name="u2044-r-grad.png" crc="3858985197" ref="see-what-i-see"/>
+    <file name="arrowmenuright.png" crc="4175204551" ref="see-what-i-see"/>
+    <file name="fizz.png" crc="508992226" seo="true" ref="fizz"/>
+    <file name="fizz.gif" crc="3881168673" seo="true" ref="fizz"/>
+    <file name="man.gif" crc="179602468" seo="true" ref="pigeon"/>
+    <file name="error.png" crc="340692525" seo="true" ref="pigeon"/>
+    <file name="u2774-4.png" crc="185487031" ref="pigeon"/>
+    <file name="system.png" crc="4000662440" seo="true" ref="pigeon"/>
+    <file name="ok.png" crc="4122111538" seo="true" ref="pigeon"/>
+    <file name="terminate.png" crc="337906381" seo="true" ref="pigeon"/>
+    <file name="hecki.png" crc="287799393" seo="true" ref="pigeon"/>
+    <file name="pigeoncool.gif" crc="3985626495" seo="true" ref="pigeon"/>
+    <file name="icecream.gif" crc="4213477136" seo="true" ref="ice-cream"/>
+    <file name="bluberries.gif" crc="74447455" seo="true" ref="blueberry"/>
+    <file name="banana.gif" crc="3782586914" seo="true" ref="banana"/>
+    <file name="b90043ae43f145581f0aaea4ae40a1f8.jpg" crc="137679556" seo="true" ref="bby"/>
+    <file name="textures__crayon_031_by_onecoldcanadian.png" crc="3783860059" seo="true" ref="bby"/>
+    <file name="2c1eb2390d6846146021399bd8649e81.png" crc="4102107066" seo="true" ref="bby"/>
+    <file name="hesrt.png" crc="227115404" seo="true" ref="bby"/>
+    <file name="hrt.png" crc="4291948867" seo="true" ref="bby"/>
+    <file name="img-thing.png" crc="3916229422" seo="true" ref="bby"/>
+    <file name="sparkle.png" crc="3926166390" seo="true" ref="bby"/>
+    <file name="kid.png" crc="4103121822" seo="true" ref="bby"/>
+    <file name="giphy.gif" crc="416449421" seo="true" ref="bby"/>
+    <file name="15300580_10154163868357897_1140794322_n.png" crc="11603434" seo="true" ref="bby"/>
+    <file name="blank.gif" crc="4208392903" ref="bby:index"/>
+    <file name="20833891072_d6124cd7dc_o.png" crc="4131151312" seo="true" ref="bby"/>
+    <file name="smallstick.gif" crc="167998239" ref="======"/>
+    <file name="flower.png" crc="4165659111" seo="true" ref="grow"/>
+    <file name="fruit1.jpg" crc="3966637186" seo="true" ref="fruit-kids"/>
+    <file name="brick.gif" crc="320548536" seo="true" ref="masses-cubes"/>
+    <file name="graph-paper-black-green-grid-5120x2880-c2-000000-00ff00-l2-4-120-a-0-f-20.svg" crc="4178111586" seo="true" ref="web"/>
+    <file name="graph-paper-black-green-grid-5120x2880-c2-000000-00ff00-l2-4-120-a-0-f-20_poster_.png" crc="98042192" ref="web"/>
+    <file name="moving.gif" crc="455655646" seo="true" ref="web"/>
+    <file name="skull.gif" crc="4026096805" seo="true" ref="web"/>
+    <file name="fruit2.jpg" crc="151516407" seo="true" ref="fruit-kids2"/>
+    <file name="fruit3.jpg" crc="4279683371" seo="true" ref="fruit-kids3"/>
+    <file name="p6 1.png" crc="4238651436" seo="true" ref="perhaps"/>
+    <file name="tree_with_moss_and_leafs.gif" crc="118647569" ref="perhaps"/>
+    <file name="u3904_states.png" crc="178493933" ref="index"/>
+    <file name="u3904_states-r.png" crc="451756506" ref="index"/>
+    <file name="u3914_states.png" crc="178493933" ref="index"/>
+    <file name="u3914_states-r.png" crc="451756506" ref="index"/>
+    <file name="u3917_states.png" crc="178493933" ref="index"/>
+    <file name="u3917_states-r.png" crc="451756506" ref="index"/>
+    <file name="rock.gif" crc="148865154" ref="index"/>
+    <file name="egg_png45.png" crc="4138604916" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="cross.png" crc="3996233410" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="cross2.png" crc="4013343561" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="cross3.png" crc="83123409" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="cross4.png" crc="4148372849" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="cross5.png" crc="4213334667" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="cross6.png" crc="377849660" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="eggbox.png" crc="162314859" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="cross8.png" crc="498095118" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="cross7.png" crc="4197009027" seo="true" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+    <file name="wallpape.png" crc="4199772376" ref="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy"/>
+  </folder>
+  <file name="in-an-attack,-deep-breathe.html" crc="4025076388" seo="true" mt="1481749327191" redirect="true"/>
+  <file name="a-is-for.html" crc="4119381014" seo="true" mt="1481616232421" redirect="true"/>
+  <file name="-------.html" crc="397734921" seo="true" mt="1481749022804" redirect="true"/>
+  <file name="ibiricidi.html" crc="404073187" seo="true" mt="1481748927545" redirect="true"/>
+  <file name="get-rekt-banksy.html" crc="158011710" seo="true" mt="1481733891748" redirect="true"/>
+  <file name="love-stinks.html" crc="4151156631" seo="true" mt="1481749091339" redirect="true"/>
+  <file name="--.,-.--ooooooo.html" crc="370192080" seo="true" mt="1481733890970" redirect="true"/>
+  <file name="that-guy-who-smuggled-a-sandwich-into-space.html" crc="307286875" seo="true" mt="1481818080249" redirect="true"/>
+  <file name="shredder.html" crc="3877668755" seo="true" mt="1481749132844" redirect="true"/>
+  <file name="rb.html" crc="287933714" seo="true" mt="1481748947591" redirect="true"/>
+  <file name="rain.html" crc="254319860" seo="true" mt="1481733883320" redirect="true"/>
+  <file name="see-what-i-see.html" crc="3893648183" seo="true" mt="1481733884947" redirect="true"/>
+  <file name="fizz.html" crc="4206103501" seo="true" mt="1481749108154" redirect="true"/>
+  <file name="pigeon.html" crc="201388163" seo="true" mt="1481733883949" redirect="true"/>
+  <file name="ice-cream.html" crc="4143246973" seo="true" mt="1481733887250" redirect="true"/>
+  <file name="blueberry.html" crc="4096705528" seo="true" mt="1481733887120" redirect="true"/>
+  <file name="banana.html" crc="52616761" seo="true" mt="1481733886998" redirect="true"/>
+  <file name="bby.html" crc="4121203983" seo="true" mt="1481749233973" redirect="true"/>
+  <file name="======.html" crc="4101646080" seo="true" mt="1481733884161" redirect="true"/>
+  <file name="grow.html" crc="4190163052" seo="true" mt="1481733883257" redirect="true"/>
+  <file name="fruit-kids.html" crc="3888457218" seo="true" mt="1481749292237" redirect="true"/>
+  <file name="masses-cubes.html" crc="4237459172" seo="true" mt="1481749499300" redirect="true"/>
+  <file name="web.html" crc="135884939" seo="true" mt="1481748860155" redirect="true"/>
+  <file name="fruit-kids2.html" crc="319253900" seo="true" mt="1481749281544" redirect="true"/>
+  <file name="fruit-kids3.html" crc="46428346" seo="true" mt="1481748698857" redirect="true"/>
+  <file name="perhaps.html" crc="3922347202" seo="true" mt="1481749265268" redirect="true"/>
+  <file name="index.html" crc="451746864" seo="true" mt="1481749611878" redirect="true"/>
+  <file name="nanny-cats-and-her-chucky-eggs-copy-copy-copy-copy-copy-copy-copy.html" crc="4294532326" seo="true" mt="1481749798426" redirect="true"/>
+</manifest>
